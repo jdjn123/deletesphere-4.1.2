@@ -1,5 +1,16 @@
 # ks-4.1.2
 本文大部分安装包都已经下载到/kk/下
+
+###  拉取docker镜像
+
+(本文安装包都已经下载到/kk/下)
+(本文安装包都已经下载到/kk/下)
+(本文安装包都已经下载到/kk/下)
+
+```bash
+docker pull registry.cn-hangzhou.aliyuncs.com/kubesphereio-jdjn/kubesphereio-jdjn:4.1.2
+```
+
 ###  下载 KubeSphere Core Helm Chart(本文大部分安装包都已经下载到/kk/下)
 
 
