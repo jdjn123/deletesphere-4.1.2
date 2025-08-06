@@ -1,5 +1,6 @@
 # ks-4.1.2
 本文大部分安装包都已经下载到/kk/下
+以下是删库前的文档  某个大佬做的 https://kubesphere.saowu.top/ 
 
 ###  拉取docker镜像
 
